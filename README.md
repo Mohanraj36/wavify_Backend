@@ -20,3 +20,5 @@ with the user account user can do the following actions
 
 **Note:** 
   I'm tested this code using **Postman**
+**Output**
+![Screenshots](PostmanResult/Screenshot1.png "Befor admin added song")
