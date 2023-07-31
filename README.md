@@ -6,6 +6,12 @@ using Django 4.2.3V Docs and lib's
   Django-REST,
   Knox-token #authendicating purpose
 
+**Note:** 
+I'm tested this code using **Postman**
+
+**Output**
+Download **PostmanResult** to See the Backend Output....
+
 **for Admin --globally**
 only admin can *post,delete,update songs*
 
@@ -17,8 +23,5 @@ with the user account user can do the following actions
   *Add song to Library,*
   *Listen a song from Library,*
   *Delete a song from Library*
-
-**Note:** 
-  I'm tested this code using **Postman**
-**Output**
-![Screenshots](PostmanResult/Screenshot1.png "Befor admin added song")
+  
+**Thank You**
